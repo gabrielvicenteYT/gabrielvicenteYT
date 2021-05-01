@@ -4,12 +4,16 @@
 ### Learning
 - Java
 - Kotlin
-- JavaScript 
+- JavaScript
+
 ───────────────────────────────
+
 ### Learning Soon
 - C++
 - Python
+- 
 ───────────────────────────────
+
 ### Contact Information
 
  - Youtube: https://www.youtube.com/channel/UCgvype8S5GjO9NI9M6R9bjw
