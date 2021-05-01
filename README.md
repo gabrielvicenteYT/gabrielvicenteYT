@@ -4,7 +4,7 @@
 ### Learning
 - Java
 - Kotlin
-- JavaScript
+- JavaScript 
 ───────────────────────────────
 ### Learning Soon
 - C++
